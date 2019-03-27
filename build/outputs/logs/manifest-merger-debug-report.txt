@@ -1,26 +1,26 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [:UnityChannel:] C:\Users\Hiran\.gradle\caches\transforms-1\files-1.1\UnityChannel.aar\21795cc13513f77a24d1106322b236ab\AndroidManifest.xml:2:1-56:12
-INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:70-97
 		INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:98-144
 	android:versionCode
 		INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:2:11-69
@@ -55,17 +55,17 @@ MERGED from [:UnityChannel:] C:\Users\Hiran\.gradle\caches\transforms-1\files-1.
 activity#com.hiran.Hexagen.UnityPlayerActivity
 ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:5-12:16
 	android:screenOrientation
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:48-92
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:48-85
 	android:label
 		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:15-47
 	android:launchMode
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:93-124
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:86-117
 	android:hardwareAccelerated
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:307-342
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:300-335
 	android:configChanges
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:125-306
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:118-299
 	android:name
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:343-395
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:5:336-388
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
 ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:6:7-10:23
 action#android.intent.action.MAIN
@@ -114,24 +114,30 @@ MERGED from [:UnityChannel:] C:\Users\Hiran\.gradle\caches\transforms-1\files-1.
 MERGED from [:UnityChannel:] C:\Users\Hiran\.gradle\caches\transforms-1\files-1.1\UnityChannel.aar\21795cc13513f77a24d1106322b236ab\AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:19:3-97
+	android:required
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:19:70-94
+	android:name
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:19:17-69
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:19:3-88
+ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:20:3-88
 	android:required
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:19:61-85
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:20:61-85
 	android:name
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:19:17-60
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:20:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:20:3-99
+ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:21:3-99
 	android:required
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:20:72-96
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:21:72-96
 	android:name
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:20:17-71
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:21:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:21:3-108
+ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:22:3-108
 	android:required
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:21:81-105
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:22:81-105
 	android:name
-		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:21:17-80
+		ADDED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml:22:17-80
 uses-sdk
 INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Hiran\Desktop\Hexagon\src\main\AndroidManifest.xml
