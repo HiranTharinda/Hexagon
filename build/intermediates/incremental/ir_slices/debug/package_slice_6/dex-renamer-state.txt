@@ -1,0 +1,4 @@
+#Wed Mar 27 12:28:02 IST 2019
+base.0=C\:\\Users\\Hiran\\Desktop\\Hexagon\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
